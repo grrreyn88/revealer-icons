@@ -1,6 +1,6 @@
 # Revealer Icons
 
-icon pack for the Lua cheat revealer.
+icon pack for cheat revealer
 
 raw base:
 
